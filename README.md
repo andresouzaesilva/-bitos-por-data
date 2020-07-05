@@ -1,4 +1,4 @@
-# Óbitos-por-data
+# Mortes-por-data
 Trabalho para disciplina de Estrutura de Dados
 
 A análise tem por finalidade, mostrar o crescimento de mortes por dia (Brasil), em um determinado período da pandemia de COVID-19.
